@@ -8,6 +8,13 @@ This repository is an implementation of "[An integrated quality assurance phanto
 
 ## Files and Documentation
 
+OneIso supporting documents are provided.
+
+```
+Excel Sheet to Calculate the Point Dose:
+- src\Chamber Measurement SRS Phantom Template May 2020.xlsx
+
+```
 
 ## Citation
 
