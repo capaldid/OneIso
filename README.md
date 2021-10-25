@@ -6,6 +6,10 @@ This repository is an implementation of "[An integrated quality assurance phanto
   <img width="720" height="348" src="https://github.com/capaldid/OneIso/blob/master/OneIso_Figure.png">
 </p>
 
+## Video
+
+DPIC QA Phantom Presentation June 23 2020.mp4
+
 You can find the [User Guide here](https://oneiso.wordpress.com).
 
 ## Files and Documentation
