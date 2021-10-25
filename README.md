@@ -10,6 +10,7 @@ You can find the [User Guide here](https://oneiso.wordpress.com).
 
 ## Video
 
+https://github.com/capaldid/OneIso/blob/db1d19e54ea8a7c181b3706fbdc243e977f6158b/DPIC%20QA%20Phantom%20Presentation%20June%2023%202020.mp4
 
 ## Files and Documentation
 
